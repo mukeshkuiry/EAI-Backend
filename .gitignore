@@ -1,0 +1,10 @@
+# Ignore env file
+.env
+
+# Ignore other required files for Go backend
+*.log
+*.pid
+*.exe
+*.dll
+*.so
+*.dylib
